@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../PWA/Skatepark-locator"
+		},
+		{
+			"path": "../skatepark-locator-website"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "skatepark-locator-api"
+	}
+}

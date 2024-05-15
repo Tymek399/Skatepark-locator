@@ -1,0 +1,8 @@
+{
+    "name": "skatepark-locator-website",
+    "version": "1.0.0",
+    "description": "Frontend for the Skatepark Locator",
+    "main": "index.html",
+    "dependencies": {}
+  }
+  
